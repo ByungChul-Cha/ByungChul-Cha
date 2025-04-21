@@ -21,21 +21,26 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 </p>
 
+## 📖 What am I studying
+  <p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  </p>
+  
 ## ✏️ Experiences
- - 제 12회 K-Hackathon 참여 ` (2024.05 ~ 2024.07) `
  - 충북대학교 컴퓨터공학과 ` (2021.02 ~) `
+ - 제 12회 K-Hackathon 참여 ` (2024.05 ~ 2024.07) `
  - 충북대학교 IT동아리 CaTs 임원 `(2025.02 ~ ) `
 
 ## ☎️ How to Contact
-<a href="lastsc1404@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Discord | 차병철 -5865F2?style=flat-square&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/lastsc1404@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/차병철-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 <a href="https://www.instagram.com/bc.12_22/"><img src="https://img.shields.io/badge/Instagram-3F729B?style=flat-square&logo=instagram&logoColor=white"/></a>
-
-
 
 ## 📊 Statistics
 
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=ByungChul-Cha&show_icons=true&theme=holi" width = "49%" height="130%" />
-  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByungChul-Cha&hide=CMake,c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByungChul-Cha&hide=CMake,c%23,html,Objective-C,Swift,&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
