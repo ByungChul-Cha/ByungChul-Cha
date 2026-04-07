@@ -31,7 +31,7 @@
 ## ✏️ Experiences
  - 충북대학교 컴퓨터공학과 ` (2021.02 ~) `
  - 제 12회 K-Hackathon 참여 ` (2024.05 ~ 2024.07) `
- - 충북대학교 IT동아리 CaTs 임원 `(2025.02 ~ ) `
+ - 충북대학교 IT동아리 CaTs 임원 `(2025.02 ~ 2025.12) `
 
 ## ☎️ How to Contact
 <img src="https://img.shields.io/badge/lastsc1404@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
